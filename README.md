@@ -46,7 +46,7 @@ cd braveditor
 pnpm install
 
 # Iniciar servidor de desarrollo
-npm run dev
+pnpm run dev
 ```
 
 La aplicación estará disponible en `http://localhost:5173`
