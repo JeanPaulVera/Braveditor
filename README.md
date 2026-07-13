@@ -43,7 +43,7 @@ git clone https://github.com/Carlos-Vera/Braveditor.git
 cd braveditor
 
 # Instalar dependencias
-npm install
+pnpm install
 
 # Iniciar servidor de desarrollo
 npm run dev
@@ -54,10 +54,10 @@ La aplicación estará disponible en `http://localhost:5173`
 ## 📦 Scripts Disponibles
 
 ```bash
-npm run dev      # Inicia el servidor de desarrollo
-npm run build    # Compila TypeScript y construye para producción
-npm run lint     # Ejecuta ESLint para verificar código
-npm run preview  # Preview del build de producción
+pnpm run dev      # Inicia el servidor de desarrollo
+pnpm run build    # Compila TypeScript y construye para producción
+pnpm run lint     # Ejecuta ESLint para verificar código
+pnpm run preview  # Preview del build de producción
 ```
 
 ## 🛠️ Stack Tecnológico
@@ -149,7 +149,7 @@ Apache-2.0 © [Carlos Vera](https://braveslab.com)
 ##  Autores
 
 - **Carlos Vera** - [carlos@braveslab.com](mailto:carlos@braveslab.com)
-- **Jean Paul Vera Bravo** - Contributor
+- **Jean Paul Vera Bravo** - Contribuidor
 
 ##  Reportar Problemas
 
